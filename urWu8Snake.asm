@@ -6,7 +6,8 @@
 ;   |\A\/L/\n\/U/\.\/\~
 ;   ^ \PP/  \ST/  \../
 ;      ``    ``
-; Derived from the snake game in "Easy 6502" by Nick Morgan, used and licensed under CC BY 4.0.
+; Derived from the snake game in "Easy 6502" by Nick Morgan, used under CC BY 4.0.
+; urWu8Snake is licensed under CC BY 4.0 by Francois van Eeden.
 
 ; Change direction: W A S D
 
