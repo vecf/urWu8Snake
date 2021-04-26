@@ -1,5 +1,6 @@
 # urWu8Snake
-This repo is inspired by the tiny e-book ["Easy 6502"](https://skilldrick.github.io/easy6502/) <em>by</em> <a href="https://twitter.com/skilldrick">Nick Morgan</a>, licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>. 
+This repo contains a derivative of snake from the tiny e-book ["Easy 6502"](https://skilldrick.github.io/easy6502/)  <em>by</em> <a href="https://twitter.com/skilldrick">Nick Morgan</a>, used and under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>.
+
 It contains a modified version of the game presented in [this](https://skilldrick.github.io/easy6502/#snake) section. 
 I fully enjoyed and recommend working through it! 
         
