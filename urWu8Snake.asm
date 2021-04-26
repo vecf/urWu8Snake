@@ -6,7 +6,7 @@
 ;   |\A\/L/\n\/U/\.\/\~
 ;   ^ \PP/  \ST/  \../
 ;      ``    ``
-
+; Derived from the snake game in "Easy 6502" by Nick Morgan, used and licensed under CC BY 4.0.
 
 ; Change direction: W A S D
 
